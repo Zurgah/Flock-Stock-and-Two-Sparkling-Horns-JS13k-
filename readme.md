@@ -8,16 +8,16 @@ Your task is to make all the numbers on the table identical while the unicorn tr
 ---
 
 How to Play:  
-Click on a stack.  
-Scroll the wheel or hold - / +.  
-Click the same stack again.  
+`Click` on a stack.  
+Scroll the `wheel` or hold - / +.  
+`Click` the same stack again.  
 
 or  
 
-WASD or arrows - select  
--/+ - change  
-Enter - move  
-R - new game  
+`W``A``S``D` or arrows - select  
+`-`/`+` - change  
+`Enter` - move  
+`R` - new game  
 
 ---
 
