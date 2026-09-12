@@ -9,13 +9,13 @@ Your task is to make all the numbers on the table identical while the unicorn tr
 
 How to Play:  
 `Click` on a stack.  
-Scroll the `wheel` or hold - / +.  
+Scroll the `wheel` or hold `-` / `+`.  
 `Click` the same stack again.  
 
 or  
 
-`W``A``S``D` or arrows - select  
-`-`/`+` - change  
+`W` `A` `S` `D` or arrows - select  
+`-` / `+` - change  
 `Enter` - move  
 `R` - new game  
 
