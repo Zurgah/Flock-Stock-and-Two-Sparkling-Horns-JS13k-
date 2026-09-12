@@ -3,7 +3,7 @@
 ---
 
 Did you know that unicorns love gambling too? 
-Your task is to make all the numbers on the table identical while the unicorn tries to stop you.
+Your goal is to make all the numbers on the table identical while the unicorn tries to stop you.
 
 ---
 
